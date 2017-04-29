@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="paperparcel-kotlin-2.0.1">
+    <CLASSES>
+      <root url="jar://F:/Android/sdk/.android/build-cache/f553594f18fa7d8a878e0d341ab6631947cda48d/output/jars/classes.jar!/" />
+      <root url="file://F:/Android/sdk/.android/build-cache/f553594f18fa7d8a878e0d341ab6631947cda48d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/nz.bradcampbell/paperparcel-kotlin/2.0.1/120a9c50aedfa238b5b64067bb8144f68710251d/paperparcel-kotlin-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

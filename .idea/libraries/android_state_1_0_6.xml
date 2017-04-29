@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-state-1.0.6">
+    <CLASSES>
+      <root url="file://F:/Android/sdk/.android/build-cache/09fe62931b01ca00da169c05189eed0fb5eaa418/output/res" />
+      <root url="jar://F:/Android/sdk/.android/build-cache/09fe62931b01ca00da169c05189eed0fb5eaa418/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.evernote/android-state/1.0.6/47bf23244b20eaa34347b50355ae0f323fe51d11/android-state-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
